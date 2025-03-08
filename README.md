@@ -5,7 +5,7 @@ Preview it. Smash it. Rebuild it epic.
 
 💖 C# Devotee 💖
 
-C# courses through my veins—fueling every wild project I conjure. Then there’s Rust: a steamy affair turned full-on obsession with its ruthless power and finesse, but I have given up on it.
+C# courses through my veins—fueling every wild project I conjure. Then there’s Rust: a steamy affair turned full-on obsession with its ruthless power and finesse, but I have given up on it. Have coded all my life from Assembly, Graphical calculators, Turbo Pascal, C, C++, VB6, Java, C# and Rust. Maybe more, but these came into mind. 
 
 Day Gig: Crushing it with VB.NET and TypeScript, wielding Angular like a front-end warlord. Still rocking .NET—and loving every damn minute.
 
