@@ -24,4 +24,4 @@ I’ve been an AI junkie since OpenAI flung open its API doors. **Plot twist: I 
 
 Thanks if you read this far  🙏✨ All is 100% true, AI just makes it sound so wild and good, remember I am not too young anymore little over 40 already 👨‍🦲👍 So been around computers of all kind since age of 9 I think. Playing around with computers at fathers workplace, schools and everywhere there were some, until got my first own 486 DX2, 8 MB of ram, 512MB hard-disk beast with sound blaster sound card without MIDI support.
 
-Best memory was playing with friend using selfmade zero modem cable. Then using HEX editor for Ultima to get out of the damm starting city.
+Best memory was playing with friend using selfmade zero modem cable mostly Command and Conquer or Doom. Then using HEX editor for Ultima to get out of the damm starting city. When Duke Nuken 3D came we where already playing it on schools computers and networks.
