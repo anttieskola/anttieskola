@@ -22,4 +22,4 @@ I’ve been an AI junkie since OpenAI flung open its API doors. **Plot twist: I 
 - Model crafting? Nah, I’m no lab-coat genius.  
 - I’m the app-slinger, hacking away via API (and cringing at “OpenAI-compatible”).
 
-Thanks if you read this far  🙏✨ All is 100% true, AI just makes it sound so wild and good.
+Thanks if you read this far  🙏✨ All is 100% true, AI just makes it sound so wild and good, remember I am not too young anymore little over 40 already 👨‍🦲👍 So been around computers of all kind since age of 9 I think. Playing around with computers at fathers workplace, schools and everywhere there were some, until got my first own 486 DX2, 8 MB of ram, 512MB hard-disk beast with sound blaster sound card without MIDI support.
