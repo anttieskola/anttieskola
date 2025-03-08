@@ -22,6 +22,5 @@ I’ve been an AI junkie since OpenAI flung open its API doors. **Plot twist: I 
 - Model crafting? Nah, I’m no lab-coat genius.  
 - I’m the app-slinger, hacking away via API (and cringing at “OpenAI-compatible”).
 
-Thanks if you read this far  🙏✨ All is 100% true, AI just makes it sound so wild and good, remember I am not too young anymore little over 40 already 👨‍🦲👍 So been around computers of all kind since age of 9 I think. Playing around with computers at fathers workplace, schools and everywhere there were some, until got my first own 486 DX2, 8 MB of ram, 512MB hard-disk beast with sound blaster sound card without MIDI support.
-
-Best memory was playing with friend using selfmade zero modem cable, mostly Command and Conquer or Doom. Then using HEX editor for Ultima, to get out of the damm starting city. When Duke Nukem 3D came out, we where already playing it on schools computers and networks.
+Thanks if you read this far  🙏✨ All is 100% true. AI just makes it sound so wild and good. Remember, I’m not too young anymore—little over 40 already 👨‍🦲👍. So, I’ve been around computers of all kinds since the age of 9, I think. Playing around with computers at my father’s workplace, schools, and everywhere there were some, until I got my first own 486 DX2: 8 MB of RAM, 512 MB hard-disk beast with a Sound Blaster sound card without MIDI support.
+Best memory was playing with a friend using a self-made null modem cable—mostly Command & Conquer or Doom. Then using a HEX editor for Ultima to get out of the damn starting city. When Duke Nukem 3D came out, we were already playing it on school computers and networks.
