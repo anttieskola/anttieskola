@@ -5,8 +5,10 @@ Preview it. Smash it. Rebuild it epic.
 
 💖 C# Devotee 💖
 
-C# courses through my veins—fueling every wild project I conjure. Then there’s Rust: a steamy affair turned full-on obsession with its ruthless power and finesse.  
+C# courses through my veins—fueling every wild project I conjure. Then there’s Rust: a steamy affair turned full-on obsession with its ruthless power and finesse, but I have given up on it.
+
 Day Gig: Crushing it with VB.NET and TypeScript, wielding Angular like a front-end warlord. Still rocking .NET—and loving every damn minute.
+
 Real Life: Swapping keys for chisels with woodworking (I’m hooked), and carving digital masterpieces in Blender. I’m a one-man creation cyclone.  
 The Grand Scheme? Fusing code, craft, and 3D sorcery into a mind-blowing mega-project. It’s simmering—brace yourself!
 
